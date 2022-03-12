@@ -1,0 +1,70 @@
+.servise_conatiner{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 3rem;
+    
+
+}
+.service{
+    background: var(--color-bg-varient);
+    border-radius: 0 0 2rem 2rem;
+    border: 1px solid var(--color-primary);
+    height: fit-content;
+    transition: var(--transition);
+    z-index: 5;
+    
+}
+.service:hover{
+    background:transparent;
+    border-color: var(--color-primary);
+   cursor: default;
+}
+.service_heade{
+    background: var(--color-primary);
+     padding: 2rem;
+    border-radius: 0 0 2rem 2rem;
+    box-shadow: 0 2rem 1rem rgba(0,0,0,0.1);
+    
+}
+.service_heade h3{
+    color:var(--color-bg);
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+    text-align: center;
+}
+.sevice_list{
+    padding: 2rem;
+}
+.sevice_list li{
+    /*display: flex;*/
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
+.service_list-item{
+    color: var(--color-primary);
+    margin-right: 4px;
+}
+.sevice_list{
+    font-size: 0.9rem;
+}
+
+@media screen and (max-width: 1024px){
+   .service_conatiner{
+   grid-template-columns: 1fr;
+    gap: 2rem;
+   }
+   .sevice{
+       height: auto;
+   }
+}
+
+/* =======================Meadia Query Small devises============================================ */
+@media screen and (max-width: 600px){
+   .service{
+       grid-template-columns: 1fr;
+       gap: 1.5rem;
+   }
+   
+}
+
