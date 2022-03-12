@@ -41,7 +41,11 @@ const Footer = () => {
         <a href="https://instagram.com" target="_blank" rel="noreferrer">
           <BsLinkedin />
         </a>
-        <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+        <a
+          href="https://www.linkedin.com/in/lakshmi-saravanan-584015214/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <BsInstagram />
         </a>
       </div>

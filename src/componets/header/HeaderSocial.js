@@ -7,13 +7,13 @@ const HeaderSocial = () => {
       <a
         href="https://www.linkedin.com/in/lakshmi-saravanan-584015214/"
         target="_blank"
+        rel="noreferrer"
       >
         <BsLinkedin />
       </a>
-      <a href="https://github.com/Lakshmi5524" target="_blank">
+      <a href="https://github.com/Lakshmi5524" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
-      <a href="https://linkedn.com" target="_blank"></a>
     </div>
   )
 }
