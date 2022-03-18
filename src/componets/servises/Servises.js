@@ -18,7 +18,7 @@ const Servises = () => {
                 <GiCheckMark className="service_list-item" />
                 June 2021-2021 Act{" "}
               </h3>
-              <h2>Guvi Geek Network Pvt. Ltd (learing platform)</h2>
+
               <p>
                 Full Stack Program: I have been Coding for around 6 months now.
                 I look back to those days where it all began from blank screens
@@ -83,13 +83,6 @@ const Servises = () => {
             </li>
           </ul>
         </article>
-        {/* end qualification */}
-        {/*<article className="service">
-          <div className="service_head">
-            <h3>Bio Datat</h3>
-          </div>
-          <div className="data_list"></div>
-        </article>*/}
       </div>
     </section>
   )

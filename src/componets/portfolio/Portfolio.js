@@ -72,7 +72,7 @@ const portfolio = () => {
           <div className="portfolio_item-image">
             <img src={case3} alt="project=img" />
           </div>
-          <h3>ReactJS</h3>
+          <h3>ReactjS</h3>
 
           <a
             href="https://github.com/Lakshmi5524/Movie-series"
@@ -99,7 +99,7 @@ const portfolio = () => {
           <div className="portfolio_item-image">
             <img src={case4} alt="project=img" />
           </div>
-          <h3>ReactJS</h3>
+          <h3>ReactjS</h3>
 
           <a
             href="https://github.com/Lakshmi5524/Context-shopingCart"
@@ -118,14 +118,14 @@ const portfolio = () => {
             Live Demo
           </a>
           <h3>ShoppingCart</h3>
-          <p>Using Reactjs all the filter functionality Add to cart</p>
+          <p>Using ReactjS all the filter functionality Add to cart</p>
         </article>
 
         <article className="portfolio_item">
           <div className="portfolio_item-image">
             <img src={case5} alt="project=img" />
           </div>
-          <h3>ReactJS</h3>
+          <h3>ReactjS</h3>
 
           <a
             href="https://github.com/Lakshmi5524/Food-api"
@@ -152,7 +152,7 @@ const portfolio = () => {
           <div className="portfolio_item-image">
             <img src={case6} alt="project=img" />
           </div>
-          <h3>TReactJS</h3>
+          <h3>ReactjS</h3>
 
           <a
             href="https://github.com/Lakshmi5524/simple-TodoApp-reactjs"
@@ -172,7 +172,7 @@ const portfolio = () => {
           </a>
 
           <h3>simple-TodoApp</h3>
-          <p>Using Reactjs, Enter the list Items</p>
+          <p>Using ReactjS, Enter the list Items</p>
         </article>
 
         <article className="portfolio_item">
