@@ -25,7 +25,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/mobile-app-javascript"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -33,7 +33,7 @@ const portfolio = () => {
             href="https://mobile-showroom.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -51,7 +51,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/ZoomClone"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -59,7 +59,7 @@ const portfolio = () => {
             href="https://aqueous-peak-05442.herokuapp.com/cdc3e8ac-9d18-4ee1-916a-fa9ac29ed843"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -78,7 +78,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/Movie-series"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -86,7 +86,7 @@ const portfolio = () => {
             href="https://lakshmi-movie-series.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -105,7 +105,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/Context-shopingCart"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -113,7 +113,7 @@ const portfolio = () => {
             href="https://reactjs-addto-cart.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -131,7 +131,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/Food-api"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -139,7 +139,7 @@ const portfolio = () => {
             href="https://searchfood-recipe-api.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -158,7 +158,7 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/simple-TodoApp-reactjs"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
           >
             Github
           </a>
@@ -166,7 +166,8 @@ const portfolio = () => {
             href="https://small-todo-list.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            //className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -185,7 +186,8 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/Mern-map-frontend"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            //className="btn"
+            className="btns buttons"
           >
             Github FrontEnd
           </a>
@@ -193,7 +195,8 @@ const portfolio = () => {
             href="https://pin-map-mern.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            //className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -202,7 +205,8 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/Mern-map-backend"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            //className="btn"
+            className="btns buttons"
           >
             Github BackEnd
           </a>
@@ -221,7 +225,8 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/crud-mern-client"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            //className="btn"
+            className="btns buttons"
           >
             Github FrontEnd
           </a>
@@ -229,7 +234,8 @@ const portfolio = () => {
             href="https://crud-mern-app.netlify.app/"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            //className="btn btn-primary"
+            className="btns buttons"
           >
             Live Demo
           </a>
@@ -238,7 +244,8 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/crud-mern-server"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            //className="btn"
+            className="btns buttons"
           >
             Github BackEnd
           </a>
@@ -257,15 +264,31 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/mern-auth-clinet"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            className="btns buttons"
+            //style={{
+            //  margin: 10,
+            //  padding: 10,
+            //  width: 100,
+            //  height: 100,
+            //  background: "red",
+            //}}
           >
+            {" "}
             Github FrontEnd
           </a>
           <a
             href="https://mern-auth-project.herokuapp.com/login"
             target="_blank"
             rel="noreferrer"
-            className="btn btn-primary"
+            // className="btn btn-primary"
+            className="btns buttons"
+            //style={{
+            //  margin: 10,
+            //  padding: 10,
+            //  width: 100,
+            //  height: 100,
+            //  background: "red",
+            //}}
           >
             Live Demo
           </a>
@@ -274,7 +297,15 @@ const portfolio = () => {
             href="https://github.com/Lakshmi5524/mern-auth"
             target="_blank"
             rel="noreferrer"
-            className="btn"
+            //className="btn"
+            className="btns buttons"
+            //style={{
+            //  margin: 10,
+            //  padding: 10,
+            //  width: 100,
+            //  height: 100,
+            //  background: "red",
+            //}}
           >
             Github BackEnd
           </a>
