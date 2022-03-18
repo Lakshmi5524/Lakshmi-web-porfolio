@@ -46,7 +46,7 @@ const Experience = () => {
             <article className="experience_details">
               <FaReact className="experience_details_icon" />
               <div>
-                <h4>ReactJs</h4>
+                <h4>Reactjs</h4>
                 <small className="text-light">95%</small>
               </div>
             </article>
